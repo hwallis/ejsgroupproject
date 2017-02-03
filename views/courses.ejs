@@ -1,0 +1,18 @@
+    <h1>Courses</h1>
+<table>
+    <thead>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Difficulty</th>
+    </thead>
+    <tbody>
+
+    <% courses.forEach( function(course) { %>
+<tr>
+    <td><%= course.id %></td>
+    <td><%= course.name %></td>
+    <td><%= course.difficulty %></td>
+</tr>
+    <% }) %>
+    </tbody>
+</table>

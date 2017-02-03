@@ -1,0 +1,24 @@
+{"courses":
+[
+    {
+        "id": 1,
+        "name": "JavaScript",
+        "difficulty": "Terrible"
+    },
+    {
+        "id": 2,
+        "name": "Ruby",
+        "difficulty": "Insane"
+    },
+    {
+        "id": 3,
+        "name": "UI/UX",
+        "difficulty": "For Babies"
+    },
+    {
+        "id": 4,
+        "name": "Data Science",
+        "difficulty": "Brain Hurting"
+    }
+]
+}
